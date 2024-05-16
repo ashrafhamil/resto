@@ -1,0 +1,108 @@
+{
+  "users": [
+    {
+      "id": "a9de",
+      "email": "yap@mail.com",
+      "name": "yap",
+      "password": "password"
+    },
+    {
+      "id": "a288",
+      "email": "tony@mail.com",
+      "password": "password",
+      "name": "tony"
+    },
+    {
+      "id": "6f56",
+      "email": "pow@mail.com",
+      "password": "password",
+      "name": "pow"
+    },
+    {
+      "id": "3959",
+      "email": "bruce@mail.com",
+      "password": "password",
+      "name": "bruce"
+    },
+    {
+      "id": "b3ee",
+      "email": "bruce@mail.com",
+      "password": "password",
+      "name": "brucep"
+    },
+    {
+      "id": "0608",
+      "email": "eee@mail.com",
+      "password": "password",
+      "name": "eee"
+    },
+    {
+      "id": "3302",
+      "email": "pokok@mail.com",
+      "password": "password",
+      "name": "pokok"
+    },
+    {
+      "id": "24b8",
+      "email": "mew@mail.com",
+      "password": "password",
+      "name": "mew"
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "RCB restaurantt",
+      "address": "Midvalley KL",
+      "contact": "44223311",
+      "id": "4"
+    },
+    {
+      "name": "TeaBean",
+      "address": "abdullah hukum",
+      "contact": "331122",
+      "id": "a750"
+    },
+    {
+      "id": "75b6",
+      "name": "Tealive",
+      "address": "Perak",
+      "contact": "3332211"
+    },
+    {
+      "id": "ae56",
+      "name": "Nasi Lemak Opah",
+      "address": "Karai",
+      "contact": "22112233"
+    },
+    {
+      "id": "e290",
+      "name": "Gerai Omak",
+      "address": "Kuale",
+      "contact": "442233"
+    },
+    {
+      "id": "7846",
+      "name": "GreenTea",
+      "address": "Putrajaya",
+      "contact": "33444221"
+    },
+    {
+      "id": "6a39",
+      "name": "Kayu",
+      "address": "Mid",
+      "contact": "4441321321"
+    },
+    {
+      "id": "f673",
+      "name": "MakCom",
+      "address": "Kuale",
+      "contact": "442211"
+    },
+    {
+      "id": "7a65",
+      "name": "Kedai Mew",
+      "address": "Cheras",
+      "contact": "889988"
+    }
+  ]
+}
